@@ -1,8 +1,8 @@
-### Hi there 👋
+
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=QureshiTaha&show_icons=true&theme=dracula"> -->
 
 # 🚀Hello Devs
-
+<!-- 
 I am Taha, I’m a Front End developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
 I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with React js .
 I'm also a content creator influencer/Mentor on social media sharing tips and resources for learning how to code.
@@ -73,3 +73,4 @@ Feel free to contact me about any problems you are facing. I will try to help as
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayat-al-zaidi-4ab6321b6/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayatalzaidi2000@gmail.com)](mailto:ayatalzaidi2000@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayat0110)  
+ -->
