@@ -77,3 +77,4 @@ Feel free to contact me about any problems you are facing. I will try to help as
 <!-- - [Did you ever asked yourself how much JS should i knew as a frontend developer ?](https://www.instagram.com/p/CRwEstCjVvf/) -->
 <!-- - [Should a frontend developer know DS&A ?](https://www.instagram.com/p/CRgnp-AjBd5/) -->
 
+[![QureshiTaha's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/QureshiTaha/github-readme-stats)
