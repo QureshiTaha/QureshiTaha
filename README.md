@@ -69,7 +69,7 @@ As a frontend developer most of my time I coding with JavaScript .
 Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-qureshi-71b50b212/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qureshi.t2000@gmail.com)](mailto:ayatalzaidi2000@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qureshi.t2000@gmail.com)](mailto:qureshi.t2000@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QureshiTaha)  
 
 
