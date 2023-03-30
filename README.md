@@ -2,11 +2,12 @@
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=QureshiTaha&show_icons=true&theme=dracula"> -->
 
 # 🚀Hello Devs
-<!-- 
-I am Taha, I’m a Front End developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
-I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with React js .
-I'm also a content creator influencer/Mentor on social media sharing tips and resources for learning how to code.
-You can check out some of my projects and if you got any questions you can reach out in the links below.  
+
+As a Full Stack Web Developer, I am passionate about creating modern and dynamic websites and applications that provide real-world solutions. My expertise in software development enables me to use technology to innovate and find new ways to solve problems.
+
+In addition to my development skills, I have extensive knowledge in Artificial Intelligence and Machine Learning. This allows me to create intelligent applications that can analyze data and provide valuable insights to users. As an ethical hacker, I ensure that the applications I develop are secure and safe from cyber threats.
+
+My dedication to staying up-to-date with the latest trends and techniques in software development has enabled me to provide my clients with the most innovative and effective solutions possible. I am constantly looking for new and creative ways to enhance my skills and bring more value to my clients.
 
 ## 💫 What programming languages I like
 
